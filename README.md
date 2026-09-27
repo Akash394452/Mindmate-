@@ -8,7 +8,7 @@ MindMate is a unified platform designed to address the primary challenges faced 
 
 ## 👥 Team & Founders
 * **Akash Yadav** – *Founder & AI/ML Lead* (B.Tech AI & ML, Galgotias University)
-* **Vatasala** – *Co-Founder & Strategy Lead* (B.Tech AI & ML, Galgotias University)
+* **Vatsala** – *Co-Founder & Strategy Lead* (B.Tech AI & ML, Galgotias University)
 
 ---
 
